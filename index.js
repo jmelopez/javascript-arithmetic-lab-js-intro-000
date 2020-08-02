@@ -19,4 +19,3 @@ function increment(n) {
 function decrement(n) {
   return n--
 }
-
