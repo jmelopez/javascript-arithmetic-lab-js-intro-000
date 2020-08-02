@@ -19,7 +19,7 @@ function increment(n) {
 function decrement(n) {
   return --n
 }
-function mankeInt(n) {
+function mankeInt() {
   return parseInt('n', 10)
 }
 function preserveDecimal(n) {
