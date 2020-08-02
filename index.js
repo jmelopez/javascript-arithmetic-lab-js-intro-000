@@ -19,3 +19,5 @@ function increment(n) {
 function decrement(n) {
   return --n
 }
+parseInt(n,10)
+parseFloat(n)
